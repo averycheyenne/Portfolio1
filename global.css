@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-average-sans: "Average Sans";
+  --font-average: Average;
+
+  /* font sizes */
+  --font-size-13xl: 32px;
+  --font-size-17xl: 36px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-ivory: #fffdf0;
+  --color-maroon: rgba(119, 26, 7, 0.84);
+}
