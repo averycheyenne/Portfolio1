@@ -1,0 +1,160 @@
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-maroon);
+  width: 376px;
+  height: 494px;
+}
+.group-child1 {
+  position: absolute;
+  top: 10.43px;
+  left: 13.09px;
+  width: 350.75px;
+  height: 237.04px;
+  object-fit: cover;
+}
+.plannd-a-mobile1 {
+  position: absolute;
+  top: 247.47px;
+  left: 17.77px;
+  display: inline-block;
+  width: 294.63px;
+  height: 83.44px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 485px;
+  left: 70px;
+  width: 376px;
+  height: 494px;
+}
+.desktop-1,
+.frame-child {
+  position: absolute;
+  top: 23px;
+  left: 0;
+  width: 1440px;
+}
+.desktop-1 {
+  background-color: var(--color-ivory);
+  height: 1024px;
+  overflow: hidden;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-average);
+}
+.frame-child {
+  background-color: var(--color-darkslategray);
+  height: 173px;
+}
+.thistle-oak3 {
+  position: absolute;
+  top: 140px;
+  left: 185px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-average);
+}
+.copy-of-thistle-oak-design-c3 {
+  position: absolute;
+  top: 0;
+  left: 8px;
+  width: 230px;
+  height: 220px;
+  overflow: hidden;
+}
+.hello-my-name,
+.my-recent-projects {
+  position: absolute;
+  font-family: var(--font-average);
+  color: var(--color-black);
+  display: inline-block;
+}
+.hello-my-name {
+  top: 243px;
+  left: 74px;
+  font-size: var(--font-size-45xl);
+  text-transform: uppercase;
+  width: 1280px;
+  height: 112px;
+}
+.my-recent-projects {
+  top: 415px;
+  left: 513px;
+  font-size: 40px;
+  text-decoration: underline;
+  text-align: center;
+  width: 369px;
+  height: 48px;
+}
+.about-me7,
+.about-me9 {
+  position: absolute;
+  top: 92px;
+  left: 792px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 180px;
+  height: 49px;
+}
+.about-me9 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.about-me8 {
+  position: absolute;
+  top: 92px;
+  left: 792px;
+  width: 180px;
+  height: 49px;
+  cursor: pointer;
+}
+.group-div,
+.home3,
+.projects3 {
+  position: absolute;
+  width: 121px;
+  height: 49px;
+}
+.home3 {
+  top: 0;
+  left: 0;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.group-div,
+.projects3 {
+  top: 92px;
+  left: 611px;
+}
+.projects3 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.contact-wrapper1,
+.projects-wrapper1 {
+  position: absolute;
+  top: 92px;
+  left: 1032px;
+  width: 180px;
+  height: 49px;
+  cursor: pointer;
+}
+.contact-wrapper1 {
+  left: 1251px;
+  width: 148px;
+}
+.desktop-1-parent {
+  position: relative;
+  width: 100%;
+  height: 1047px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-average-sans);
+}

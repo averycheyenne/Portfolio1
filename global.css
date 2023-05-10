@@ -11,10 +11,14 @@ body {
   /* font sizes */
   --font-size-13xl: 32px;
   --font-size-17xl: 36px;
+  --font-size-45xl: 64px;
+  --font-size-5xl: 24px;
 
   /* Colors */
   --color-white: #fff;
-  --color-black: #000;
   --color-ivory: #fffdf0;
   --color-maroon: rgba(119, 26, 7, 0.84);
+  --color-gainsboro: #e3dddd;
+  --color-black: #000;
+  --color-darkslategray: #093b23;
 }
