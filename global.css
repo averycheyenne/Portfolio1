@@ -5,16 +5,21 @@ body {
 
 :root {
   /* fonts */
-  --font-average-sans: "Average Sans";
   --font-average: Average;
+  --font-average-sans: "Average Sans";
 
   /* font sizes */
-  --font-size-13xl: 32px;
+  --font-size-21xl: 40px;
   --font-size-17xl: 36px;
+  --font-size-45xl: 64px;
+  --font-size-13xl: 32px;
+  --font-size-5xl: 24px;
 
   /* Colors */
   --color-white: #fff;
-  --color-black: #000;
+  --color-darkslategray: #093b23;
   --color-ivory: #fffdf0;
+  --color-black: #000;
   --color-maroon: rgba(119, 26, 7, 0.84);
+  --color-gainsboro: #e3dddd;
 }
